@@ -1,0 +1,9 @@
+.bg {
+    text-align: center;
+    min-width: 50vh;
+    min-height: 100vh;
+    background-image: url(https://hdwallsource.com/img/2015/4/rotom-wallpaper-48360-49961-hd-wallpapers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
